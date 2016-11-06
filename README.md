@@ -2,9 +2,9 @@
 
 To run this project you must have installed [mongodb](http://www.mongodb.com/).
 
-Before run this project run mongod.exe
+Before run this project run ``` mongod.exe ```
 
-Next step, you need install all needed modules for project. Run this command command in the folder of the project:
+Next step, you need install all needed modules for project. Run this command in the folder of the project:
 
 ``` npm install ```
 
